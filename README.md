@@ -1,3 +1,3 @@
 # python
 ds-5
-занятия по Python по курсу Нетелогии "Data scientist"
+занятия по Python по курсу Нетологии "Data scientist"
